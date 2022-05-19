@@ -1,0 +1,22 @@
+.container {
+  width: 350px;
+  text-align: center;
+}
+
+.container input,
+button {
+  margin: 0 10px;
+  padding: 5px;
+  border-radius: 10px;
+  width: 150px;
+  margin: 10px;
+}
+
+.container button {
+  cursor: pointer;
+}
+
+.container button:hover {
+  background-color: navy;
+  color: white;
+}
